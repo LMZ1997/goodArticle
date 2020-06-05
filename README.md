@@ -4,3 +4,4 @@
 # 每天3+1  https://www.jianshu.com/p/8ac70b06523b
 # viewport和移动端布局  https://github.com/forthealllight/blog/issues/13
 # 如何实现一个下载进度条/播放进度条   https://mp.weixin.qq.com/s/7qT56EgNKLZpbPDe9Gtjvg
+# Vue 项目性能优化（代码层及webpack配置层） https://mp.weixin.qq.com/s/kyGC2n5Uy_Vg8VhU5rhP0g
